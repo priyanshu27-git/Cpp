@@ -1,4 +1,4 @@
-//Circular Queue 
+//Circular Queue
 #include<iostream>
 using namespace std;
 typedef struct Queue
